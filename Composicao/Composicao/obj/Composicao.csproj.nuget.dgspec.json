@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Composicao\\Composicao\\Composicao.csproj": {}
+    "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Revisando-C-\\Composicao\\Composicao\\Composicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Composicao\\Composicao\\Composicao.csproj": {
+    "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Revisando-C-\\Composicao\\Composicao\\Composicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Composicao\\Composicao\\Composicao.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Revisando-C-\\Composicao\\Composicao\\Composicao.csproj",
         "projectName": "Composicao",
-        "projectPath": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Composicao\\Composicao\\Composicao.csproj",
+        "projectPath": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Revisando-C-\\Composicao\\Composicao\\Composicao.csproj",
         "packagesPath": "C:\\Users\\rodrigo.meneses\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Composicao\\Composicao\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.meneses\\Documents\\Treinando C#\\Revisando-C-\\Composicao\\Composicao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
