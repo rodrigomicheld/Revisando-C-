@@ -10,3 +10,10 @@ Projeto Composições
 - Lista
 - Enum
 - Composição
+
+Projeto Herança e Polimorfismo
+------------------------------
+- StringBuilder
+- Virtual
+- Base
+
