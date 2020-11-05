@@ -1,0 +1,3 @@
+notebook,2,3
+carro,17000,1
+moto,3.00,3
