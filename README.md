@@ -30,3 +30,8 @@ Excessões
 - Cláusula throw lança a exeção personalizada e corta a execução e cai no bloco catch correspondente.
   -Exemplo: throw new NameException("mensage");
 - No programa utiliza o catch com a excessão criada: catch(NomeException e).
+
+Properties e auto-properties
+-----------------------------
+- Quando declara uma auto-properties os metodos get e set não precisa ser implementados, porém se necessitar de uma lógica dentro deles não é possivel utiliza auto-properties.
+- Exemplo projeto aula60.
