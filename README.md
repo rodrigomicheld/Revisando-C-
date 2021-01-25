@@ -35,3 +35,16 @@ Properties e auto-properties
 -----------------------------
 - Quando declara uma auto-properties os metodos get e set não precisa ser implementados, porém se necessitar de uma lógica dentro deles não é possivel utiliza auto-properties.
 - Exemplo projeto aula60.
+
+System.Linq
+-----------
+- Delegate
+  - Declara antes do nome da classe
+- Multicast delegates
+  - Usado para metodos void, podendo invocar mais de um metodo ex:
+  - Ex.: delegate void DelegateDeclarado(int n1, int n2);
+         class...
+         DelegateDeclarado op = classe.metodo1;
+         op += classe.metodo2;
+         op(a,b);
+         resultado: retorno do metodo1 + metodo2 
